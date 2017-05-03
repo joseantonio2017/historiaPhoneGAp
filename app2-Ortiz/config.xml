@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.appMayo"
+    version   = "1.0.0">
+
+<name>MI primer app con Phone Gap</name>
+
+<description>
+Un simple Hola en Phone Gap
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Ortiz Garcia Jose Antonio
+</author>
+<icon src="icono.png" gap:density="ldpi" gap:platform="android" />
+<icon src="icono.png" gap:density="mdpi" gap:platform="android" />
+<icon src="icono.png" gap:density="hdpi" gap:platform="android" />
+<icon src="icono.png" gap:density="xhdpi" gap:platform="android" />
+</widget>
